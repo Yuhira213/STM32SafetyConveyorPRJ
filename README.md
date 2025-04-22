@@ -23,9 +23,9 @@
 ### Extension and Library
 1. C/C++ Extension Pack(di install dalam Visual Studio Code)
 2. CMake Tools (Diinstall dalam Visual Studio Code)
-3. GCC (install di dalam MSYS2 MinGW64) dengan menginput : pacman -S mingw-w64-x86_64-gcc
-4. Make (install di dalam MSYS2 MinGW64) dengan menginput : pacman -S make
-5. cmocka (install di dalam MSYS2 MinGW64) dengan menginput : pacman -S mingw-w64-x86_64-cmocka
+3. GCC (install di dalam MSYS2 MinGW64) dengan menginput : ```bash pacman -S mingw-w64-x86_64-gcc ```
+4. Make (install di dalam MSYS2 MinGW64) dengan menginput : ```bash pacman -S make ```
+5. cmocka (install di dalam MSYS2 MinGW64) dengan menginput : ```bash pacman -S mingw-w64-x86_64-cmocka ```
 
 # Tutorial melakukan Testing 
 ### 1. Clone semua isi repository dengan unduh atau
@@ -48,11 +48,11 @@ Klik Enter lagi untuk mengakhiri dan klik Run lagi untuk melakukan Interaksi den
 ### 2. Buka MSYS2 MinGW64
 ### 3. Masukkan directory dari folder Unit Testing 2
 Sebagai contoh untuk saya menggunakan directory:
-cd "/c/STM32 Project/Conveyor_Safety/Unit Testing 2"
+```bash cd "/c/STM32 Project/Conveyor_Safety/Unit Testing 2" ```
 Atau bisa dilihat dalam file MSYS2 WINGW64 Directory
 ### kemudian klik enter
 ### 4. Kemudian masukkan command
-./relay_buzzer_test.exe atau bisa dilihat di file MSYS2 WINGW64 Directory
+```bash ./relay_buzzer_test.exe ``` atau bisa dilihat di file MSYS2 WINGW64 Directory
 ### kemudian klik enter
 ### 5. Setelah itu akan muncul tampilan seperti pada gambar
 ![image](https://github.com/user-attachments/assets/f7ebce87-21e5-4ac3-9030-8f70814d8d13)
