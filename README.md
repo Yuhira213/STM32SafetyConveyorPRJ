@@ -38,6 +38,9 @@ git clone https://github.com/Yuhira213/STM32SafetyConveyorPRJ.git
 
 ### 3. Buka C Compiler website seperti https://www.onlinegdb.com/
 ### 4. Paste code yang telah dicopy tadi ke main.c pada web
+![image](https://github.com/user-attachments/assets/34c756bd-294f-49b7-b45f-c2794ce288ad)
+
+
 ### 5. Klik Run pada website
 ![image](https://github.com/user-attachments/assets/a85101c5-047c-456a-922b-fdf17c03c4e3)
 
