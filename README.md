@@ -33,7 +33,9 @@
 git clone https://github.com/Yuhira213/STM32SafetyConveyorPRJ.git
 ```
 ## A. Unit Testing 1 - Untuk melakukan testing interaktif
-### 2. Buka Visual Studio Code dengan melakukan open folder dari Unit Testing 1, lalu Copy semua isi dari main.c
+### 2. Buka Visual Studio Code dengan melakukan open folder dari Unit Testing 1, lalu Copy semua isi dari ```main.c```
+![image](https://github.com/user-attachments/assets/2c6e8b43-cc9f-4747-ad89-b2ac6363be3c)
+
 ### 3. Buka C Compiler website seperti https://www.onlinegdb.com/
 ### 4. Paste code yang telah dicopy tadi ke main.c pada web
 ### 5. Klik Run pada website
