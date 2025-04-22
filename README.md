@@ -38,6 +38,7 @@ git clone https://github.com/Yuhira213/STM32SafetyConveyorPRJ.git
 ### 4. Paste code yang telah dicopy tadi ke main.c pada web
 ### 5. Klik Run pada website
 ![image](https://github.com/user-attachments/assets/a85101c5-047c-456a-922b-fdf17c03c4e3)
+
 Kemudian setelah dirun maka akan muncul tampilan input seperti pada gambar
 ### 6. Interaksikan nilai pada Input hingga mendapat reply seperti pada contoh gambar
 ![image](https://github.com/user-attachments/assets/b6a7f1e8-8da2-43c7-a2c9-a409e1ccba64)
